@@ -16,7 +16,7 @@ banana and kitchen: 0.2852
 ## How to run
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/word-similarity-checker.git
+git clone https://github.com/mamiM/word-similarity-checker.git
 cd word-similarity-checker
 ```
 Set up your environment:
